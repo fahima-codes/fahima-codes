@@ -9,9 +9,9 @@
 [![](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs)](https://skillicons.dev)
 
 ### 🌱 Currently Learning
-
 **Backend:**
-[![](https://skillicons.dev/icons?i=nodejs,mongodb,nextjs)](https://skillicons.dev)
+
+[![](https://skillicons.dev/icons?i=nodejs,mongodb)](https://skillicons.dev)
 
 - Advanced Node.js & MongoDB
 - Next.js Full-Stack Projects
