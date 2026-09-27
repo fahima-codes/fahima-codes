@@ -5,12 +5,12 @@
 
 ### 🚀 Skills I Have
 **Frontend:**
-[![](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb)](https://skillicons.dev)
 
-
-**Backend:** `Node.js` `Express.js` `MongoDB`
+[![](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs)](https://skillicons.dev)
 
 ### 🌱 Currently Learning
+
+**Backend:**
 [![](https://skillicons.dev/icons?i=nodejs,mongodb,nextjs)](https://skillicons.dev)
 
 - Advanced Node.js & MongoDB
