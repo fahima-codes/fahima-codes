@@ -39,14 +39,6 @@ Facebook: [My Facebook Profile](https://www.facebook.com/profile.php?id=61590215
 
 ---
 
-## 📊 GitHub Stats
-
-
-![Fahima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahima-codes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahima-codes&layout=compact&theme=tokyonight)
-
----
 
 
 ⚡ Fun Facts
