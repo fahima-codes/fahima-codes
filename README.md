@@ -1,4 +1,4 @@
-<img src="./banner/github-banner.png" alt="Hello world">
+<img src="./github-banner.jpeg" alt="Hello world">
 
 
 # Hi 👋, I'm Saniya Fahima
