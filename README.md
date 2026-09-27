@@ -34,20 +34,20 @@
 
 ## 🌐 Connect With Me  
 Email: fahimasaniya8@gmail.com
-Facebook: My Facebook Profile
-GitHub: @fahima-codes
+Facebook: [My Facebook Profile](https://www.facebook.com/profile.php?id=61590215758868)
+
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 | GitHub Stats | Most Used Languages |
 | :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fahima-codes&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahima-codes&layout=compact&theme=default) |
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+
 ⚡ Fun Facts
 ☕ My code runs on coffee and curiosity
 🐛 Debugging is my favorite puzzle
