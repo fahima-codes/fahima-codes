@@ -1,5 +1,5 @@
 
-
+![Banner](github-banner.jpeg)
 
 # Hi 👋, I'm Saniya Fahima
 ### A passionate Frontend Developer from Bangladesh 🇧🇩 
