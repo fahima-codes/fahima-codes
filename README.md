@@ -4,9 +4,10 @@
 > Building responsive & user-friendly interfaces | Striving to become a highly skilled MERN Stack Developer
 
 ### 🚀 Skills I Have
+**Frontend:**
 [![](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb)](https://skillicons.dev)
 
-**Frontend:** `HTML` `CSS` `Tailwind CSS` `JavaScript (ES6)` `TypeScript` `React` `Next.js`
+
 **Backend:** `Node.js` `Express.js` `MongoDB`
 
 ### 🌱 Currently Learning
