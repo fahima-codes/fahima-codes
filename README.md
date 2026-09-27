@@ -6,7 +6,7 @@
 
 ### 🚀 Skills I Have
 **Frontend:** HTML, CSS, Tailwind CSS, JavaScript (ES6), TypeScript, React, Next.js
-**Backend:** Node.js, Express.js, MongoDB
+**Backend:** Node.js, Express.js, ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🌱 Currently Learning
 - Advanced Node.js & MongoDB
