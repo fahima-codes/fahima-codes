@@ -1,3 +1,6 @@
+<img src="./banner/github-banner.png" alt="Hello world">
+
+
 # Hi 👋, I'm Saniya Fahima
 ### A passionate Frontend Developer from Bangladesh 🇧🇩 
 
