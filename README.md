@@ -1,4 +1,4 @@
-<img src="./github-banner.jpeg" alt="Hello world">
+![Banner](./github-banner.jpeg)
 
 
 # Hi 👋, I'm Saniya Fahima
