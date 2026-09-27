@@ -1,4 +1,4 @@
-![Banner](./github-banner.jpeg)
+
 
 
 # Hi 👋, I'm Saniya Fahima
