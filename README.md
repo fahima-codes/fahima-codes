@@ -17,7 +17,7 @@
 - MERN Stack projects from Programming Hero
 
 ### 📫 How to reach me
-- Email: fahimasaniya.dev@gmail.com
+- Email: fahimasaniya8@gmail.com
 - Facebook: [My Facebook Profile](https://www.facebook.com/profile.php?id=61590215758868)
 - GitHub: @fahima-codes
 
