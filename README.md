@@ -40,10 +40,9 @@ Facebook: [My Facebook Profile](https://www.facebook.com/profile.php?id=61590215
 ---
 
 ## 📊 GitHub Stats
+![Fahima's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahima-codes&show_icons=true&theme=radical)
 
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fahima-codes&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahima-codes&layout=compact&theme=default) |
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahima-codes&layout=compact&theme=radical)
 
 ---
 
