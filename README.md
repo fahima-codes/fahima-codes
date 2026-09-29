@@ -1,8 +1,17 @@
 
 ![Banner](github-banner.jpeg)
 
-# Hi 👋, I'm Saniya Fahima
-### A passionate Frontend Developer from Bangladesh 🇧🇩 
+
+
+
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=2E97FF&center=true&vCenter=true&width=600&height=80&lines=Hello!+I'm+Saniya+Fahima" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E97FF&center=true&vCenter=true&width=600&height=50&lines=MERN+Stack+Developer;Frontend+Developer;Always+Learning" alt="Typing SVG" />
+</h3>
 
 ---
 
