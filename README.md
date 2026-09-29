@@ -46,4 +46,5 @@
 - 🐛 Debugging is my favorite puzzle
 - 🎨 I love turning Figma designs into live websites
 
-⭐️ From fahima-codes with love | Always learning, always coding!
+---
+⭐️ Built by fahima-codes | Always learning, always coding!
